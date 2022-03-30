@@ -1,2 +1,4 @@
-# decisions
-Artifacts for Making Decisions Like a Boss
+# Making Decisions Like a Boss
+Artifacts supporting the BSides Nashville presentation.
+
+
