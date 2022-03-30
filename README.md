@@ -1,2 +1,2 @@
 # Making Decisions Like a Boss
-Artifacts supporting the 2022 BSides Security Conference in Nashville presentation.
+Artifacts supporting the presentation given at the 2022 BSides Security Conference in Nashville.
